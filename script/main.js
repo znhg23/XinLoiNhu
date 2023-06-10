@@ -131,7 +131,7 @@ const animationTimeline = () => {
       ".idea-5 span",
       0.7,
       {
-        rotation: 90,
+        rotation: 0,
         x: 8,
       },
       "+=0.4"
@@ -260,7 +260,7 @@ const animationTimeline = () => {
       ".last-smile",
       0.5,
       {
-        rotation: 90,
+        rotation: 0,
       },
       "+=1"
     );
